@@ -6,7 +6,7 @@ Questo progetto implementa un programma in C per la pianificazione del percorso 
 
 ### Autore
 
-Il progetto è stato sviluppato come prova finale di Algoritmi e Strutture Dati per l'anno accademico 2022-2023.
+Il progetto è stato da me sviluppato come prova finale di Algoritmi e Strutture Dati per l'anno accademico 2022-2023.
 
 ### Funzionalità Implementate
 
@@ -74,9 +74,3 @@ Nella cartella `test` sono presenti i casi di test forniti dai docenti.
    ```
    pianifica-percorso [distanza-stazione-partenza] [distanza-stazione-arrivo]
    ```
-
-bash
-Copia codice
-./autostrada
-Autore
-Questo progetto è stato sviluppato come prova finale di Algoritmi e Strutture Dati per l'anno accademico 2022-2023.
