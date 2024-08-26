@@ -8,6 +8,13 @@ Questo progetto implementa un programma in C per la pianificazione del percorso 
 
 Il progetto è stato da me sviluppato come prova finale di Algoritmi e Strutture Dati per l'anno accademico 2022-2023.
 
+### Valutazione
+
+Docente: Davide Martinenghi
+Valutazione: 30L/30L
+Tempo di Esecuzione: 0.3 s
+Memoria Occupata: N/A (7 MB)
+
 ### Funzionalità Implementate
 
 Il programma gestisce le seguenti operazioni:
