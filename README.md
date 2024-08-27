@@ -13,7 +13,7 @@ Il progetto è stato da me sviluppato come prova finale di Algoritmi e Strutture
 Docente: Davide Martinenghi
 Valutazione: 30L/30L
 Tempo di Esecuzione: 0.3 s
-Memoria Occupata: N/A (7 MB)
+Memoria Occupata: N/A (16 MB)
 
 ### Funzionalità Implementate
 
@@ -45,7 +45,7 @@ Per utilizzare il programma, compila il file `progetto_30L.c` usando un compilat
 
 Le opzioni di compilazione utilizzate in fase di valutazione sono le seguenti:
    ```bash
-	gcc -Wall -Werror -std=gnu11 -02 -lm test.c -o progetto_30L.c
+	gcc -Wall -Werror -std=gnu11 -02 -lm progetto.c -o progetto
    ```
    
 Per eseguire il programma:
